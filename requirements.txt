@@ -1,0 +1,9 @@
+nltk
+pandas
+git+https://github.com/emilmont/pyStatParser.git
+pattern
+networkx
+pydot
+plotly
+git+https://github.com/brianray/networkx_viewer.git
+git+https://github.com/sloria/TextBlob.git
