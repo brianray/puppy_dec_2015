@@ -7,3 +7,4 @@ pydot
 plotly
 git+https://github.com/brianray/networkx_viewer.git
 git+https://github.com/sloria/TextBlob.git
+spacy==1.9.0
