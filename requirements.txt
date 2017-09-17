@@ -1,7 +1,7 @@
 nltk
 pandas
-git+https://github.com/emilmont/pyStatParser.git
-pattern
+git+https://github.com/bendavis78/pyStatParser.git@python3
+git+https://github.com/pattern3/pattern.git
 networkx
 pydot
 plotly
